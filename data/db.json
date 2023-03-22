@@ -1,0 +1,21 @@
+{
+  "quizz": [
+    {
+      "name": "Quizz Test 1",
+      "description": "Description quizz 1",
+      "type": "timer",
+      "tags": [
+        "OutilsProg"
+      ],
+      "id": 1,
+      "timer": "45"
+    },
+    {
+      "name": "LE QUIZZ TEST",
+      "description": "la desc",
+      "tags": [],
+      "id": 2
+    }
+  ],
+  "question": []
+}
